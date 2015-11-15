@@ -1,0 +1,9 @@
+int main()
+int char;
+if(char=='a'||char=='e'||char=='i'||char=='o'||char=='u')
+{
+print("the character is vowel")
+else
+print("the character is not vowel")
+end if 
+}
